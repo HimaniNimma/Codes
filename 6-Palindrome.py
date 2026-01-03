@@ -1,3 +1,4 @@
+#Palindrome 
 string=input("enter a string")
 reverse=string[::-1]
 if(string==reverse):
@@ -5,3 +6,4 @@ if(string==reverse):
 else:
     print(f"{string} is not a palindrome")
  
+
